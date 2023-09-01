@@ -1,0 +1,11 @@
+
+.botonDiv{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-items: center;
+    justify-content: center;
+    color: white;
+background-color: black;
+height: 50%;
+}
